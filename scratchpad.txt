@@ -1,0 +1,9 @@
+# capture urls
+https://developers.google.com/web/fundamentals/native-hardware/capturing-images/
+http://www.htmlgoodies.com/html5/mobile/taking-photos-from-your-html5-web-apps.html
+https://davidwalsh.name/browser-camera
+
+
+# examples
+https://nl.sunglasshut.com/nl/gezichtsvorm#round_male_carousel
+
